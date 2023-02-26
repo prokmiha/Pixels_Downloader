@@ -68,7 +68,7 @@ class ImageDownloaderApp:
 
         url = "https://api.pexels.com/v1/search"
         headers = {
-            "Authorization": "iqoiRNkAkT9DzZxoxkKAJNrMFSvaK8agiYZagFcH2mHsfaEITOLczP83"
+            "Authorization": "your API key"
         }
         self.params = {
             "query": query,
